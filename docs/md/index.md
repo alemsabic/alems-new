@@ -9,7 +9,7 @@
 > > ![banner](/img/cb-banner-dark.svg)
 
 
-# Codedoc Boilerplate
+# This is just a test
 
 Modify `docs/md/index.md` to change the contents of this page. This will be your starting
 page on your GitHub Pages site.
