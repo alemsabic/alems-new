@@ -1,3 +1,14 @@
+
+> :DarkLight
+> > :InLight
+> >
+> > ![banner](/img/cb-banner.svg)
+>
+> > :InDark
+> >
+> > ![banner](/img/cb-banner-dark.svg)
+
+
 # Codedoc Boilerplate
 
 Modify `docs/md/index.md` to change the contents of this page. This will be your starting
